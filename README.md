@@ -100,9 +100,9 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [VHDLweb](https://vhdlweb.com) is an online VHDL simulator and coding exercise tool. Anyone is welcome to view and work through the problems, but at present your work will not be saved beyond a single browser session.
 
-[Logisim evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,433 | 🐛 142 | 🌐 Java | 📅 2026-08-14 is an educational software for designing and simulating digital logic circuits.
+[Logisim evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,436 | 🐛 147 | 🌐 Java | 📅 2026-08-14 is an educational software for designing and simulating digital logic circuits.
 
-[GHDL](https://github.com/ghdl/ghdl) ⭐ 2,861 | 🐛 371 | 🌐 VHDL | 📅 2026-08-13 is an open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter it allows you to analyse and elaborate sources for generating machine code from your design.
+[GHDL](https://github.com/ghdl/ghdl) ⭐ 2,864 | 🐛 372 | 🌐 VHDL | 📅 2026-08-13 is an open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter it allows you to analyse and elaborate sources for generating machine code from your design.
 
 [Clash](https://clash-lang.org/) is a functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell. The Clash compiler transforms these high-level descriptions to low-level synthesizable VHDL, Verilog, or SystemVerilog.
 
@@ -116,15 +116,15 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 50 | 🌐 Python | 📅 2026-08-14 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 50 | 🌐 Python | 📅 2026-08-15 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,180 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
 [Icestudio](https://icestudio.io/) is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.
 
-[FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,449 | 🐛 153 | 🌐 Python | 📅 2026-08-11 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
+[FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,450 | 🐛 153 | 🌐 Python | 📅 2026-08-11 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
-[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,753 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,754 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
 [PipeCNN](https://github.com/doonny/PipeCNN) ⭐ 1,385 | 🐛 44 | 🌐 C | 📅 2022-02-14 is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
 
@@ -138,7 +138,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers.
 
-[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 710 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
+[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 711 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
 
 [LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
 
@@ -147,9 +147,9 @@ Register-transfer level (RTL) Hardware Design with VHDL
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 560 | 🐛 106 | 🌐 C | 📅 2026-03-04 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,231 | 🐛 210 | 🌐 C | 📅 2026-07-30 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,235 | 🐛 210 | 🌐 C | 📅 2026-07-30 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
-[Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,622 | 🐛 243 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+[Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,621 | 🐛 243 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
 [Reko](https://github.com/uxmal/reko) ⭐ 2,599 | 🐛 165 | 🌐 C# | 📅 2026-08-12 is a decompiler for machine code binaries.
 
@@ -192,7 +192,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [OpenCL ICD Loader](https://github.com/KhronosGroup/OpenCL-ICD-Loader) ⭐ 300 | 🐛 56 | 🌐 C | 📅 2026-08-13 is an Installable Client Driver (ICD) mechanism to allow developers to build applications against an Installable Client Driver loader (ICD loader) rather than linking their applications against a specific OpenCL implementation.
 
-[clBLAS](https://github.com/clMathLibraries/clBLAS) ⭐ 865 | 🐛 98 | 🌐 C++ | 📅 2024-08-02 is a software library containing BLAS functions written in OpenCL.
+[clBLAS](https://github.com/clMathLibraries/clBLAS) ⭐ 866 | 🐛 98 | 🌐 C++ | 📅 2024-08-02 is a software library containing BLAS functions written in OpenCL.
 
 [clFFT](https://github.com/clMathLibraries/clFFT) ⭐ 648 | 🐛 44 | 🌐 C++ | 📅 2022-10-05 is a software library containing FFT functions written in OpenCL.
 
@@ -268,7 +268,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,227 | 🐛 158 | 🌐 Python | 📅 2026-07-20 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,227 | 🐛 158 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -282,7 +282,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,107 | 🐛 223 | 🌐 Rust | 📅 2026-08-14 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,110 | 🐛 221 | 🌐 Rust | 📅 2026-08-15 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -383,7 +383,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,113 | 🐛 102 | 🌐 C | 📅 2026-08-14 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,114 | 🐛 103 | 🌐 C | 📅 2026-08-15 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -405,13 +405,13 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,113 | 🐛 102 | 🌐 C | 📅 2026-08-14, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,114 | 🐛 103 | 🌐 C | 📅 2026-08-15, written in Rust.
 
-[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,095 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,096 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
 [Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,870 | 🐛 344 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
-[Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,582 | 🐛 51 | 🌐 Python | 📅 2024-09-16 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
+[Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,583 | 🐛 51 | 🌐 Python | 📅 2024-09-16 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
 
 [Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,456 | 🐛 138 | 🌐 Python | 📅 2026-08-13 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
 
@@ -419,9 +419,9 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Mellanox FlexBoot](https://www.mellanox.com/products/adapter-software/flexboot) is a multiprotocol remote boot technology that delivers unprecedented flexibility in how IT Managers can provision or repurpose their datacenter servers. FlexBoot enables remote boot over InfiniBand or Ethernet using Boot over InfiniBand, over Ethernet, or Boot over iSCSI (Bo-iSCSI). Combined with Virtual Protocol Interconnect (VPI) technologies available in ConnectX®-3 and onwards adapters, FlexBoot gives IT Managers the flexibility to deploy servers with one adapter card into InfiniBand or Ethernet networks with the ability to boot from LAN or remote storage targets.
 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,067 | 🐛 31 | 🌐 C# | 📅 2026-07-21 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,066 | 🐛 31 | 🌐 C# | 📅 2026-07-21 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,622 | 🐛 549 | 🌐 C | 📅 2026-08-13 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,628 | 🐛 549 | 🌐 C | 📅 2026-08-13 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,131 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
@@ -486,7 +486,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [MATLAB Schemer](https://github.com/scottclowe/matlab-schemer) ⭐ 1,256 | 🐛 19 | 🌐 MATLAB | 📅 2023-12-13 is a MATLAB package makes it easy to change the color scheme (theme) of the MATLAB display and GUI.
 
-[LRSLibrary](https://github.com/andrewssobral/lrslibrary) ⭐ 885 | 🐛 3 | 🌐 MATLAB | 📅 2025-11-22 is a Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. The library was designed for moving object detection in videos, but it can be also used for other computer vision and machine learning problems.
+[LRSLibrary](https://github.com/andrewssobral/lrslibrary) ⭐ 886 | 🐛 3 | 🌐 MATLAB | 📅 2025-11-22 is a Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. The library was designed for moving object detection in videos, but it can be also used for other computer vision and machine learning problems.
 
 [Image Processing Toolbox™](https://www.mathworks.com/products/image.html) is a tool that provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations, image registration, and 3D image processing.
 
@@ -574,7 +574,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 50 | 🌐 Python | 📅 2026-08-14 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 50 | 🌐 Python | 📅 2026-08-15 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,180 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -596,7 +596,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Cascade](https://github.com/vmware/cascade) ⚠️ Archived is a Just-In-Time Compiler for Verilog from VMware Research. Cascade executes code immediately in a software simulator, and performs compilation in the background. When compilation is finished, the code is moved into hardware, and from the user’s perspective it simply gets faster over time.
 
-[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 710 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
+[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 711 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
 
 # Assembly Development
 
@@ -730,17 +730,17 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 151 | 🌐 C++ | 📅 2026-08-14
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 155 | 🌐 C++ | 📅 2026-08-15
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 657 | 🐛 208 | 🌐 C++ | 📅 2026-08-14
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 657 | 🐛 208 | 🌐 C++ | 📅 2026-08-15
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,359 | 🐛 1,172 | 🌐 CMake | 📅 2026-08-14 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,364 | 🐛 1,158 | 🌐 CMake | 📅 2026-08-15 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -792,7 +792,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,480 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,483 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -908,4 +908,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
