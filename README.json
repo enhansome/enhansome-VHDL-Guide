@@ -15,7 +15,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2022-01-03T22:35:25Z",
             "owner": "mikeroyal",
             "repo": "VHDL-Guide",
-            "stars": 78
+            "stars": 79
           }
         }
       ],
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 24217298,
             "language": "Java",
-            "last_commit": "2026-08-25T06:08:49Z",
+            "last_commit": "2026-08-25T16:50:38Z",
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
-            "stars": 7476
+            "stars": 7481
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-25T06:17:32Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2867
+            "stars": 2868
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 51361989,
             "language": "Python",
-            "last_commit": "2026-08-25T03:48:13Z",
+            "last_commit": "2026-08-25T23:14:25Z",
             "owner": "FPGAwars",
             "repo": "apio",
             "stars": 1003
@@ -318,10 +318,10 @@
             "archived": false,
             "id": 220449772,
             "language": "C",
-            "last_commit": "2026-08-14T08:29:00Z",
+            "last_commit": "2026-08-25T11:02:34Z",
             "owner": "open-sdr",
             "repo": "openwifi",
-            "stars": 4769
+            "stars": 4771
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 40909787,
             "language": "C",
-            "last_commit": "2026-08-24T18:09:03Z",
+            "last_commit": "2026-08-25T15:36:06Z",
             "owner": "eclipse-embed-cdt",
             "repo": "eclipse-plugins",
             "stars": 560
@@ -393,7 +393,7 @@
             "archived": false,
             "id": 39718308,
             "language": "C#",
-            "last_commit": "2026-08-25T00:30:08Z",
+            "last_commit": "2026-08-25T22:53:25Z",
             "owner": "uxmal",
             "repo": "reko",
             "stars": 2598
@@ -550,7 +550,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3231
+            "stars": 3232
           }
         },
         {
@@ -592,10 +592,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-24T20:56:12Z",
+            "last_commit": "2026-08-25T15:29:14Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6141
+            "stars": 6144
           }
         },
         {
@@ -663,7 +663,7 @@
                 "last_commit": "2026-08-06T08:22:13Z",
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3402
+                "stars": 3403
               }
             },
             {
@@ -675,7 +675,7 @@
                 "archived": false,
                 "id": 31374735,
                 "language": "C",
-                "last_commit": "2026-08-25T06:23:23Z",
+                "last_commit": "2026-08-25T16:40:33Z",
                 "owner": "fwupd",
                 "repo": "fwupd",
                 "stars": 4127
@@ -693,7 +693,7 @@
                 "last_commit": "2026-08-18T13:30:15Z",
                 "owner": "pop-os",
                 "repo": "system76-firmware",
-                "stars": 78
+                "stars": 79
               }
             },
             {
@@ -723,7 +723,7 @@
                 "last_commit": "2024-08-17T12:07:53Z",
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3097
+                "stars": 3098
               }
             },
             {
@@ -765,7 +765,7 @@
                 "archived": false,
                 "id": 104088122,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:28:43Z",
+                "last_commit": "2026-08-25T15:54:38Z",
                 "owner": "fkie-cad",
                 "repo": "FACT_core",
                 "stars": 1460
@@ -783,7 +783,7 @@
                 "last_commit": "2026-08-20T10:47:05Z",
                 "owner": "qmk",
                 "repo": "qmk_toolbox",
-                "stars": 3070
+                "stars": 3071
               }
             },
             {
@@ -795,10 +795,10 @@
                 "archived": false,
                 "id": 27737393,
                 "language": "C",
-                "last_commit": "2026-08-24T23:41:32Z",
+                "last_commit": "2026-08-25T16:15:45Z",
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20658
+                "stars": 20659
               }
             },
             {
@@ -896,7 +896,7 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:48:13Z",
+                "last_commit": "2026-08-25T23:14:25Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1003
@@ -972,7 +972,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45266
+                "stars": 45270
               }
             }
           ],
@@ -991,10 +991,10 @@
                 "archived": false,
                 "id": 233147271,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:18:49Z",
+                "last_commit": "2026-08-25T23:18:21Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -1021,7 +1021,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:29:14Z",
+                "last_commit": "2026-08-25T18:32:26Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -1036,10 +1036,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-25T01:20:49Z",
+                "last_commit": "2026-08-25T19:57:27Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27391
+                "stars": 27395
               }
             },
             {
@@ -1054,7 +1054,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3403
+                "stars": 3404
               }
             },
             {
@@ -1099,7 +1099,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29520
+                "stars": 29521
               }
             }
           ],
@@ -1127,7 +1127,7 @@
                 "last_commit": "2022-01-03T22:35:25Z",
                 "owner": "mikeroyal",
                 "repo": "VHDL-Guide",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -1140,7 +1140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:48.349Z",
+    "last_updated": "2026-08-25T23:57:28.657Z",
     "original_repository": "mikeroyal/VHDL-Guide",
     "original_repository_id": 426018585,
     "original_repository_sha": "46bf9b90ac2772bdd49f46808c1273ab118d1891",

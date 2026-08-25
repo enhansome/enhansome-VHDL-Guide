@@ -21,43 +21,43 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Table of Contents
 
-1. [VDHL Learning Resources](https://github.com/mikeroyal//VHDL-Guide#VDHL-Learning-Resources) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+1. [VDHL Learning Resources](https://github.com/mikeroyal//VHDL-Guide#VDHL-Learning-Resources) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-2. [OpenCL Development](https://github.com/mikeroyal/VHDL-Guide#opencl-development) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+2. [OpenCL Development](https://github.com/mikeroyal/VHDL-Guide#opencl-development) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-3. [Virtualization Tools](https://github.com/mikeroyal/VHDL-Guide#virtualization-tools) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+3. [Virtualization Tools](https://github.com/mikeroyal/VHDL-Guide#virtualization-tools) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-4. [Emulation Tools](https://github.com/mikeroyal/VHDL-Guide#emulation-tools) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+4. [Emulation Tools](https://github.com/mikeroyal/VHDL-Guide#emulation-tools) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-5. [Firmware Development](https://github.com/mikeroyal/VHDL-Guide#firmware-development) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+5. [Firmware Development](https://github.com/mikeroyal/VHDL-Guide#firmware-development) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-6. [MATLAB Development](https://github.com/mikeroyal/VHDL-Guide#matlab-development) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+6. [MATLAB Development](https://github.com/mikeroyal/VHDL-Guide#matlab-development) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/VHDL-Guide#VerilogSystemVerilog-development) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/VHDL-Guide#VerilogSystemVerilog-development) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-8. [Assembly Development](https://github.com/mikeroyal/VHDL-Guide#assembly-development) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+8. [Assembly Development](https://github.com/mikeroyal/VHDL-Guide#assembly-development) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-9. [C/C++ Development](https://github.com/mikeroyal/VHDL-Guide#cc-development) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+9. [C/C++ Development](https://github.com/mikeroyal/VHDL-Guide#cc-development) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
-10. [Electric charge, field, and potential](https://github.com/mikeroyal/VHDL-Guide#electric-charge-field-and-potential) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+10. [Electric charge, field, and potential](https://github.com/mikeroyal/VHDL-Guide#electric-charge-field-and-potential) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
     * Charge and electric force (Coulomb's law): Electric charge, field, and potential
     * Electric field: Electric charge, field, and potential
     * Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-11. [Circuits](https://github.com/mikeroyal/VHDL-Guide#Circuits) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+11. [Circuits](https://github.com/mikeroyal/VHDL-Guide#Circuits) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
     * Ohm's law and circuits with resistors: Circuits
     * Circuits with capacitors: Circuits
 
-12. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/VHDL-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+12. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/VHDL-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
     * Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
     * Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic flux and Faraday's law
 
-13. [Electromagnetic waves and interference](https://github.com/mikeroyal/VHDL-Guide#electromagnetic-waves-and-interference) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+13. [Electromagnetic waves and interference](https://github.com/mikeroyal/VHDL-Guide#electromagnetic-waves-and-interference) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
     * Introduction to electromagnetic waves: Electromagnetic waves and interference
     * Interference of electromagnetic waves
@@ -66,7 +66,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Awesome VDHL Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 [VHDL](https://en.wikipedia.org/wiki/VHDL) is a hardware description language specifically for designing physical and digital circuitry.
 
@@ -96,17 +96,17 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # VHDL Tools
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 [VHDLweb](https://vhdlweb.com) is an online VHDL simulator and coding exercise tool. Anyone is welcome to view and work through the problems, but at present your work will not be saved beyond a single browser session.
 
-[Logisim evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,476 | 🐛 134 | 🌐 Java | 📅 2026-08-25 is an educational software for designing and simulating digital logic circuits.
+[Logisim evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,481 | 🐛 134 | 🌐 Java | 📅 2026-08-25 is an educational software for designing and simulating digital logic circuits.
 
-[GHDL](https://github.com/ghdl/ghdl) ⭐ 2,867 | 🐛 345 | 🌐 VHDL | 📅 2026-08-25 is an open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter it allows you to analyse and elaborate sources for generating machine code from your design.
+[GHDL](https://github.com/ghdl/ghdl) ⭐ 2,868 | 🐛 354 | 🌐 VHDL | 📅 2026-08-25 is an open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter it allows you to analyse and elaborate sources for generating machine code from your design.
 
 [Clash](https://clash-lang.org/) is a functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell. The Clash compiler transforms these high-level descriptions to low-level synthesizable VHDL, Verilog, or SystemVerilog.
 
-[SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) ⭐ 2,031 | 🐛 169 | 🌐 Scala | 📅 2026-08-12 is a Scala based HDL (Hardware Description Language) used to describe digital hardware.
+[SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) ⭐ 2,031 | 🐛 170 | 🌐 Scala | 📅 2026-08-12 is a Scala based HDL (Hardware Description Language) used to describe digital hardware.
 
 [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) ⭐ 739 | 🐛 231 | 🌐 VHDL | 📅 2026-08-07 is an open source IDE for HDL devlopers with functionalities commonly used by software developers. The IDE consist in a bunch of tools and on top of them is the VSCode plugin.
 
@@ -116,7 +116,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,003 | 🐛 45 | 🌐 Python | 📅 2026-08-25 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,003 | 🐛 43 | 🌐 Python | 📅 2026-08-25 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,182 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -124,7 +124,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,453 | 🐛 153 | 🌐 Python | 📅 2026-08-24 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
-[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,769 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,771 | 🐛 93 | 🌐 C | 📅 2026-08-25 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
 [PipeCNN](https://github.com/doonny/PipeCNN) ⭐ 1,386 | 🐛 44 | 🌐 C | 📅 2022-02-14 is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
 
@@ -146,8 +146,8 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
-[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 560 | 🐛 106 | 🌐 C | 📅 2026-08-24 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,263 | 🐛 216 | 🌐 C | 📅 2026-07-30 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 560 | 🐛 106 | 🌐 C | 📅 2026-08-25 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,264 | 🐛 216 | 🌐 C | 📅 2026-07-30 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,624 | 🐛 243 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -157,7 +157,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # OpenCL Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/130368400-7b6a82d3-ed03-4158-ade4-d7fc6cc9960a.png">
@@ -226,7 +226,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Virtualization Tools
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -268,7 +268,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,231 | 🐛 162 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,232 | 🐛 162 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -282,7 +282,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,141 | 🐛 229 | 🌐 Rust | 📅 2026-08-24 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,144 | 🐛 227 | 🌐 Rust | 📅 2026-08-25 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -302,7 +302,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Emulation Tools
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 [Verdi® Protocol Analyzer](https://www.synopsys.com/verification/debug/verdi-protocol-analyzer.html) is a simulator independent, protocol and memory aware debug environment that enables users to quickly debug with any verification environment and easily share simulation results across teams. It gives users a graphical view of the transfers, transaction, packets and handshaking of a protocol. It highlights relationships across the hierarchy, visually unraveling the complex behavior of highly interleaved traffic. Also, enables engineers to quickly understand protocol activity, identify bottlenecks and debug unexpected behavior. Errors, warnings and messages are annotated to rapidly identify problems in the simulation.
 
@@ -334,7 +334,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Firmware Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126912889-d86e3171-471a-4c05-b6bf-36a70080ab7c.png">
@@ -379,11 +379,11 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [OpenWrt Project](https://openwrt.org/) is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.
 
-[OpenSK](https://github.com/google/OpenSK) ⭐ 3,402 | 🐛 12 | 🌐 Rust | 📅 2026-08-06 is an open-source implementation for security keys written in Rust that supports both FIDO U2F and [FIDO2](https://fidoalliance.org/fido2/) standards.
+[OpenSK](https://github.com/google/OpenSK) ⭐ 3,403 | 🐛 12 | 🌐 Rust | 📅 2026-08-06 is an open-source implementation for security keys written in Rust that supports both FIDO U2F and [FIDO2](https://fidoalliance.org/fido2/) standards.
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,127 | 🐛 108 | 🌐 C | 📅 2026-08-25 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,127 | 🐛 106 | 🌐 C | 📅 2026-08-25 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -403,31 +403,31 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Intel® Distribution of OpenVINO™ Toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) is a toolkit that you help you harness the full potential of AI across multiple Intel® architectures.
 
-[System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
+[System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,127 | 🐛 108 | 🌐 C | 📅 2026-08-25, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,127 | 🐛 106 | 🌐 C | 📅 2026-08-25, written in Rust.
 
-[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,097 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,098 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
 [Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,874 | 🐛 344 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
 [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,582 | 🐛 51 | 🌐 Python | 📅 2024-09-16 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
 
-[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,460 | 🐛 142 | 🌐 Python | 📅 2026-08-24 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
+[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,460 | 🐛 143 | 🌐 Python | 📅 2026-08-25 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
 
 [Mellanox firmware update and query utility](https://www.mellanox.com/support/firmware/mlxup-mft) is a utility that enables scanning the server machine for available Mellanox adapters and indicates whether firmware update is required for each adapter.
 
 [Mellanox FlexBoot](https://www.mellanox.com/products/adapter-software/flexboot) is a multiprotocol remote boot technology that delivers unprecedented flexibility in how IT Managers can provision or repurpose their datacenter servers. FlexBoot enables remote boot over InfiniBand or Ethernet using Boot over InfiniBand, over Ethernet, or Boot over iSCSI (Bo-iSCSI). Combined with Virtual Protocol Interconnect (VPI) technologies available in ConnectX®-3 and onwards adapters, FlexBoot gives IT Managers the flexibility to deploy servers with one adapter card into InfiniBand or Ethernet networks with the ability to boot from LAN or remote storage targets.
 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,070 | 🐛 24 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,071 | 🐛 24 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,658 | 🐛 547 | 🌐 C | 📅 2026-08-24 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,659 | 🐛 549 | 🌐 C | 📅 2026-08-25 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,132 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
 # MATLAB Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -538,7 +538,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Verilog/SystemVerilog Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273517-4b785480-3ed7-11eb-910a-113821428f17.png">
@@ -574,7 +574,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,003 | 🐛 45 | 🌐 Python | 📅 2026-08-25 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,003 | 🐛 43 | 🌐 Python | 📅 2026-08-25 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,182 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -600,7 +600,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Assembly Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415607-18154480-389d-11eb-80e8-17a5c57e480f.png">
@@ -649,7 +649,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -684,7 +684,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,266 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,270 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -730,17 +730,17 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 163 | 🌐 C++ | 📅 2026-08-24
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 205 | 🐛 170 | 🌐 C++ | 📅 2026-08-25
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 203 | 🌐 C++ | 📅 2026-08-25
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 205 | 🌐 C++ | 📅 2026-08-25
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,391 | 🐛 1,178 | 🌐 CMake | 📅 2026-08-25 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,395 | 🐛 1,175 | 🌐 CMake | 📅 2026-08-25 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -750,7 +750,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,403 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,404 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
@@ -792,13 +792,13 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,520 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,521 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 # Electric charge, field, and potential
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 ```
  - Charge and electric force (Coulomb's law): Electric charge, field, and potential
@@ -820,7 +820,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Circuits
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 ```
 - Ohm's law and circuits with resistors: Circuits
@@ -843,7 +843,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Magnetic forces, magnetic fields, and Faraday's law
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 ```
 - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
@@ -875,7 +875,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Electromagnetic waves and interference
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 ```
 - Introduction to electromagnetic waves: Electromagnetic waves and interference
@@ -898,11 +898,11 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/VHDL-Guide/pulls) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/VHDL-Guide/pulls) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 78 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 79 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/)
 
