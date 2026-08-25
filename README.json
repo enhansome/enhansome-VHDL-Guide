@@ -213,10 +213,10 @@
             "archived": false,
             "id": 24217298,
             "language": "Java",
-            "last_commit": "2026-08-24T21:14:12Z",
+            "last_commit": "2026-08-25T06:08:49Z",
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
-            "stars": 7472
+            "stars": 7476
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 46439446,
             "language": "VHDL",
-            "last_commit": "2026-08-24T19:42:48Z",
+            "last_commit": "2026-08-25T06:17:32Z",
             "owner": "ghdl",
             "repo": "ghdl",
             "stars": 2867
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 51361989,
             "language": "Python",
-            "last_commit": "2026-08-24T15:04:16Z",
+            "last_commit": "2026-08-25T03:48:13Z",
             "owner": "FPGAwars",
             "repo": "apio",
-            "stars": 1002
+            "stars": 1003
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-07-18T21:28:10Z",
             "owner": "keystone-engine",
             "repo": "keystone",
-            "stars": 2623
+            "stars": 2624
           }
         },
         {
@@ -393,7 +393,7 @@
             "archived": false,
             "id": 39718308,
             "language": "C#",
-            "last_commit": "2026-08-23T23:21:17Z",
+            "last_commit": "2026-08-25T00:30:08Z",
             "owner": "uxmal",
             "repo": "reko",
             "stars": 2598
@@ -595,7 +595,7 @@
             "last_commit": "2026-08-24T20:56:12Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6140
+            "stars": 6141
           }
         },
         {
@@ -663,7 +663,7 @@
                 "last_commit": "2026-08-06T08:22:13Z",
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3401
+                "stars": 3402
               }
             },
             {
@@ -675,10 +675,10 @@
                 "archived": false,
                 "id": 31374735,
                 "language": "C",
-                "last_commit": "2026-08-24T23:37:53Z",
+                "last_commit": "2026-08-25T06:23:23Z",
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4126
+                "stars": 4127
               }
             },
             {
@@ -798,7 +798,7 @@
                 "last_commit": "2026-08-24T23:41:32Z",
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20657
+                "stars": 20658
               }
             },
             {
@@ -813,7 +813,7 @@
                 "last_commit": "2026-08-05T06:42:14Z",
                 "owner": "tmk",
                 "repo": "tmk_keyboard",
-                "stars": 4131
+                "stars": 4132
               }
             }
           ],
@@ -896,10 +896,10 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:04:16Z",
+                "last_commit": "2026-08-25T03:48:13Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
-                "stars": 1002
+                "stars": 1003
               }
             },
             {
@@ -972,7 +972,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45265
+                "stars": 45266
               }
             }
           ],
@@ -1021,7 +1021,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:12:42Z",
+                "last_commit": "2026-08-25T06:29:14Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -1036,10 +1036,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-24T18:50:42Z",
+                "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27392
+                "stars": 27391
               }
             },
             {
@@ -1140,7 +1140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:55:08.620Z",
+    "last_updated": "2026-08-25T06:35:48.349Z",
     "original_repository": "mikeroyal/VHDL-Guide",
     "original_repository_id": 426018585,
     "original_repository_sha": "46bf9b90ac2772bdd49f46808c1273ab118d1891",
