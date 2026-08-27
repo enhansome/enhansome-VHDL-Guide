@@ -213,10 +213,10 @@
             "archived": false,
             "id": 24217298,
             "language": "Java",
-            "last_commit": "2026-08-26T17:20:58Z",
+            "last_commit": "2026-08-27T05:16:25Z",
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
-            "stars": 7488
+            "stars": 7490
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 46439446,
             "language": "VHDL",
-            "last_commit": "2026-08-26T18:59:32Z",
+            "last_commit": "2026-08-27T10:21:41Z",
             "owner": "ghdl",
             "repo": "ghdl",
             "stars": 2868
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-12T07:15:05Z",
             "owner": "SpinalHDL",
             "repo": "SpinalHDL",
-            "stars": 2031
+            "stars": 2032
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 51361989,
             "language": "Python",
-            "last_commit": "2026-08-26T15:32:55Z",
+            "last_commit": "2026-08-27T08:11:50Z",
             "owner": "FPGAwars",
             "repo": "apio",
             "stars": 1005
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-25T11:02:34Z",
             "owner": "open-sdr",
             "repo": "openwifi",
-            "stars": 4773
+            "stars": 4772
           }
         },
         {
@@ -592,10 +592,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-26T21:15:32Z",
+            "last_commit": "2026-08-27T10:13:32Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6149
+            "stars": 6151
           }
         },
         {
@@ -607,7 +607,7 @@
             "archived": false,
             "id": 51007072,
             "language": "C",
-            "last_commit": "2026-08-26T14:43:49Z",
+            "last_commit": "2026-08-27T10:43:49Z",
             "owner": "xen-project",
             "repo": "xen",
             "stars": 842
@@ -675,7 +675,7 @@
                 "archived": false,
                 "id": 31374735,
                 "language": "C",
-                "last_commit": "2026-08-26T15:59:43Z",
+                "last_commit": "2026-08-27T10:33:14Z",
                 "owner": "fwupd",
                 "repo": "fwupd",
                 "stars": 4130
@@ -723,7 +723,7 @@
                 "last_commit": "2024-08-17T12:07:53Z",
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3097
+                "stars": 3099
               }
             },
             {
@@ -896,7 +896,7 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:32:55Z",
+                "last_commit": "2026-08-27T08:11:50Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1005
@@ -972,7 +972,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45278
+                "stars": 45280
               }
             }
           ],
@@ -1021,7 +1021,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-27T04:51:51Z",
+                "last_commit": "2026-08-27T09:52:35Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -1039,7 +1039,7 @@
                 "last_commit": "2026-08-26T19:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27401
+                "stars": 27403
               }
             },
             {
@@ -1054,7 +1054,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3405
+                "stars": 3406
               }
             },
             {
@@ -1099,7 +1099,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29529
+                "stars": 29530
               }
             }
           ],
@@ -1140,9 +1140,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:00:43.949Z",
-    "original_repository": "mikeroyal/VHDL-Guide",
-    "original_repository_id": 426018585,
+    "last_updated": "2026-08-27T12:12:36.587Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 426018585,
+      "language": "VHDL",
+      "last_commit": "2022-01-03T22:35:25Z",
+      "owner": "mikeroyal",
+      "repo": "VHDL-Guide",
+      "stars": 79
+    },
     "original_repository_sha": "46bf9b90ac2772bdd49f46808c1273ab118d1891",
     "enhanced_repository": "enhansome/enhansome-VHDL-Guide",
     "enhanced_repository_description": null,
