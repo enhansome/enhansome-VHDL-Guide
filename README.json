@@ -476,8 +476,8 @@
             "id": 24217298,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T13:11:15Z",
-            "open_issues": 125,
+            "last_commit": "2026-08-29T04:36:33Z",
+            "open_issues": 122,
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
             "stars": 7496,
@@ -1878,7 +1878,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T02:56:29Z",
+                "last_commit": "2026-08-29T04:52:32Z",
                 "open_issues": 201,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:05.651Z",
+    "last_updated": "2026-08-29T05:02:53.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "VHDL Guide",
