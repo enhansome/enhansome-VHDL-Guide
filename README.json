@@ -480,7 +480,7 @@
             "open_issues": 110,
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
-            "stars": 7655,
+            "stars": 7664,
             "topics": [
               "circuit",
               "circuits",
@@ -514,7 +514,7 @@
             "language": "VHDL",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T17:22:57Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "ghdl",
             "repo": "ghdl",
             "stars": 2899,
@@ -545,10 +545,10 @@
             "language": "Scala",
             "license": "NOASSERTION",
             "last_commit": "2026-09-19T19:03:19Z",
-            "open_issues": 178,
+            "open_issues": 179,
             "owner": "SpinalHDL",
             "repo": "SpinalHDL",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "fpga",
               "rtl",
@@ -597,7 +597,7 @@
             "id": 51361989,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T04:05:24Z",
+            "last_commit": "2026-09-27T04:18:48Z",
             "open_issues": 31,
             "owner": "FPGAwars",
             "repo": "apio",
@@ -653,7 +653,7 @@
             "open_issues": 153,
             "owner": "olofk",
             "repo": "fusesoc",
-            "stars": 1463,
+            "stars": 1465,
             "topics": [
               "eda",
               "fpga",
@@ -682,7 +682,7 @@
             "open_issues": 97,
             "owner": "open-sdr",
             "repo": "openwifi",
-            "stars": 4811,
+            "stars": 4823,
             "topics": [
               "802-11",
               "ad9361",
@@ -1025,7 +1025,7 @@
                 "open_issues": 46,
                 "owner": "jrprice",
                 "repo": "Oclgrind",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "debugger",
                   "opencl"
@@ -1086,7 +1086,7 @@
             "open_issues": 159,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3258,
+            "stars": 3259,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:08.146Z"
@@ -1146,10 +1146,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-09-26T21:00:15Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6264,
+            "stars": 6263,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -1175,7 +1175,7 @@
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 851,
+            "stars": 852,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:08.146Z"
@@ -1193,7 +1193,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-25T09:37:19Z",
-            "open_issues": 332,
+            "open_issues": 333,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 586,
@@ -1284,11 +1284,11 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-26T18:50:07Z",
-                "open_issues": 111,
+                "last_commit": "2026-09-27T12:53:38Z",
+                "open_issues": 110,
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4178,
+                "stars": 4179,
                 "topics": [
                   "c",
                   "firmware",
@@ -1356,7 +1356,7 @@
                 "open_issues": 259,
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3107,
+                "stars": 3108,
                 "topics": [
                   "android",
                   "firmware",
@@ -1499,10 +1499,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-26T20:13:54Z",
-                "open_issues": 549,
+                "open_issues": 548,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20730,
+                "stars": 20731,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -1567,7 +1567,7 @@
                 "open_issues": 19,
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1259,
+                "stars": 1258,
                 "topics": [
                   "color-scheme",
                   "color-theme",
@@ -1666,7 +1666,7 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T04:05:24Z",
+                "last_commit": "2026-09-27T04:18:48Z",
                 "open_issues": 31,
                 "owner": "FPGAwars",
                 "repo": "apio",
@@ -1800,7 +1800,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45336,
+                "stars": 45340,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:08.146Z"
@@ -1878,11 +1878,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T01:08:50Z",
+                "last_commit": "2026-09-28T01:51:48Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -1915,10 +1915,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-27T00:04:06Z",
-                "open_issues": 1089,
+                "open_issues": 1099,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27489,
+                "stars": 27504,
                 "topics": [
                   "c",
                   "cmake",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:46:04.952Z",
+    "last_updated": "2026-09-28T01:58:00.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "VHDL Guide",
