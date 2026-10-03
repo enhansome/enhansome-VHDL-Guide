@@ -21,52 +21,52 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Table of Contents
 
-1. [VDHL Learning Resources](https://github.com/mikeroyal//VHDL-Guide#VDHL-Learning-Resources) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+1. [VDHL Learning Resources](https://github.com/mikeroyal//VHDL-Guide#VDHL-Learning-Resources)
 
-2. [OpenCL Development](https://github.com/mikeroyal/VHDL-Guide#opencl-development) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+2. [VDHL Tools](https://github.com/mikeroyal//VDHL-Guide#VHDL-Tools)
 
-3. [Virtualization Tools](https://github.com/mikeroyal/VHDL-Guide#virtualization-tools) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+3. [OpenCL Development](https://github.com/mikeroyal/VHDL-Guide#opencl-development)
 
-4. [Emulation Tools](https://github.com/mikeroyal/VHDL-Guide#emulation-tools) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+4. [Virtualization Tools](https://github.com/mikeroyal/VHDL-Guide#virtualization-tools)
 
-5. [Firmware Development](https://github.com/mikeroyal/VHDL-Guide#firmware-development) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+5. [Emulation Tools](https://github.com/mikeroyal/VHDL-Guide#emulation-tools)
 
-6. [MATLAB Development](https://github.com/mikeroyal/VHDL-Guide#matlab-development) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+6. [Firmware Development](https://github.com/mikeroyal/VHDL-Guide#firmware-development)
 
-7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/VHDL-Guide#VerilogSystemVerilog-development) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+7. [MATLAB Development](https://github.com/mikeroyal/VHDL-Guide#matlab-development)
 
-8. [Assembly Development](https://github.com/mikeroyal/VHDL-Guide#assembly-development) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+8. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/VHDL-Guide#VerilogSystemVerilog-development)
 
-9. [C/C++ Development](https://github.com/mikeroyal/VHDL-Guide#cc-development) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+9. [Assembly Development](https://github.com/mikeroyal/VHDL-Guide#assembly-development)
 
-10. [Electric charge, field, and potential](https://github.com/mikeroyal/VHDL-Guide#electric-charge-field-and-potential) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+10. [C/C++ Development](https://github.com/mikeroyal/VHDL-Guide#cc-development)
+
+11. [Electric charge, field, and potential](https://github.com/mikeroyal/VHDL-Guide#electric-charge-field-and-potential)
 
     * Charge and electric force (Coulomb's law): Electric charge, field, and potential
     * Electric field: Electric charge, field, and potential
     * Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-11. [Circuits](https://github.com/mikeroyal/VHDL-Guide#Circuits) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+12. [Circuits](https://github.com/mikeroyal/VHDL-Guide#Circuits)
 
     * Ohm's law and circuits with resistors: Circuits
     * Circuits with capacitors: Circuits
 
-12. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/VHDL-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+13. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/VHDL-Guide#magnetic-forces-magnetic-fields-and-Faradays-law)
 
     * Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
     * Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic flux and Faraday's law
 
-13. [Electromagnetic waves and interference](https://github.com/mikeroyal/VHDL-Guide#electromagnetic-waves-and-interference) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+14. [Electromagnetic waves and interference](https://github.com/mikeroyal/VHDL-Guide#electromagnetic-waves-and-interference)
 
     * Introduction to electromagnetic waves: Electromagnetic waves and interference
     * Interference of electromagnetic waves
 
-14. [VDHL Tools](https://github.com/mikeroyal//VDHL-Guide#VHDL-Tools)
-
 # Awesome VDHL Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 [VHDL](https://en.wikipedia.org/wiki/VHDL) is a hardware description language specifically for designing physical and digital circuitry.
 
@@ -96,11 +96,11 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # VHDL Tools
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 [VHDLweb](https://vhdlweb.com) is an online VHDL simulator and coding exercise tool. Anyone is welcome to view and work through the problems, but at present your work will not be saved beyond a single browser session.
 
-[Logisim evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,692 | 🐛 119 | 🌐 Java | 📅 2026-10-02 is an educational software for designing and simulating digital logic circuits.
+[Logisim evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,693 | 🐛 119 | 🌐 Java | 📅 2026-10-02 is an educational software for designing and simulating digital logic circuits.
 
 [GHDL](https://github.com/ghdl/ghdl) ⭐ 2,898 | 🐛 340 | 🌐 VHDL | 📅 2026-10-02 is an open-source analyzer, compiler, simulator and (experimental) synthesizer for VHDL, a Hardware Description Language (HDL). GHDL is not an interpreter it allows you to analyse and elaborate sources for generating machine code from your design.
 
@@ -116,7 +116,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-02 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-03 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,188 | 🐛 69 | 🌐 Python | 📅 2026-09-21 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -147,7 +147,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 559 | 🐛 106 | 🌐 C | 📅 2026-09-09 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,395 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,396 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,640 | 🐛 244 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -157,7 +157,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # OpenCL Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/130368400-7b6a82d3-ed03-4158-ade4-d7fc6cc9960a.png">
@@ -226,7 +226,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Virtualization Tools
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -302,7 +302,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Emulation Tools
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 [Verdi® Protocol Analyzer](https://www.synopsys.com/verification/debug/verdi-protocol-analyzer.html) is a simulator independent, protocol and memory aware debug environment that enables users to quickly debug with any verification environment and easily share simulation results across teams. It gives users a graphical view of the transfers, transaction, packets and handshaking of a protocol. It highlights relationships across the hierarchy, visually unraveling the complex behavior of highly interleaved traffic. Also, enables engineers to quickly understand protocol activity, identify bottlenecks and debug unexpected behavior. Errors, warnings and messages are annotated to rapidly identify problems in the simulation.
 
@@ -334,7 +334,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Firmware Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126912889-d86e3171-471a-4c05-b6bf-36a70080ab7c.png">
@@ -421,13 +421,13 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,094 | 🐛 25 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,738 | 🐛 547 | 🌐 C | 📅 2026-10-02 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,739 | 🐛 547 | 🌐 C | 📅 2026-10-02 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,136 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
 # MATLAB Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -538,7 +538,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Verilog/SystemVerilog Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273517-4b785480-3ed7-11eb-910a-113821428f17.png">
@@ -574,7 +574,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-02 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-03 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,188 | 🐛 69 | 🌐 Python | 📅 2026-09-21 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -600,7 +600,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Assembly Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415607-18154480-389d-11eb-80e8-17a5c57e480f.png">
@@ -649,7 +649,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -684,7 +684,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,352 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,353 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -734,13 +734,13 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 203 | 🌐 C++ | 📅 2026-10-02
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 203 | 🌐 C++ | 📅 2026-10-03
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,512 | 🐛 1,089 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,092 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -798,7 +798,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Electric charge, field, and potential
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 ```
  - Charge and electric force (Coulomb's law): Electric charge, field, and potential
@@ -820,7 +820,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Circuits
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 ```
 - Ohm's law and circuits with resistors: Circuits
@@ -843,7 +843,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Magnetic forces, magnetic fields, and Faraday's law
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 ```
 - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
@@ -875,7 +875,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 # Electromagnetic waves and interference
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 ```
 - Introduction to electromagnetic waves: Electromagnetic waves and interference
@@ -898,11 +898,11 @@ Register-transfer level (RTL) Hardware Design with VHDL
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/VHDL-Guide/pulls) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/VHDL-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents) ⭐ 80 | 🐛 0 | 🌐 VHDL | 📅 2022-01-03
+[Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/)
 

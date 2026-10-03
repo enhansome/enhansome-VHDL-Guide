@@ -1,467 +1,6 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nVHDL is a hardware description language specifically for designing physical and digital circuitry.\nVery Large-Scale Integration (VLSI) is the process of creating an integrated circuit (IC) by combining millions of MOS transistors onto a single chip.\nCentral Processing Unit (CPU) is a circuit that's composed of multiple cores that executes instructions comprising a computer program. The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. This is different from other external components such as main memory, I/O circuitry, and graphics processing units (GPUs).\nVector Processor is a central processing unit (CPU) that implements an instruction set where its instructions are designed to operate efficiently and effectively on large one-dimensional arrays of data called vectors.\nApplication Specific Integrated Circuits (ASICs) is an integrated circuit (IC) chip customized for a particular use in embedded systems, mobile phones, personal computers, professional workstations, rather than intended for general use.\nSingle Instruction, Multiple Data (SIMD) is a type of parallel processing that describes computers with multiple processing elements that perform the same operation on multiple data points simultaneously.\nTop VHDL Courses Online | Udemy\nIntroduction to VHDL | Udemy\nFPGA & ASIC Design Using VHDL\nHardware Description Languages for FPGA Design | Coursera\nHardware Description Languages for FPGA Design | Coursera\nIntel® FPGA Technical Training Catalog\nGetting Started with FPGA Programming with VHDL | Pluralsight",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "VDHL Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenCL Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Virtualization Tools",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Emulation Tools",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Firmware Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MATLAB Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Verilog/SystemVerilog Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Assembly Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "C/C++ Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Electric charge, field, and potential",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Circuits",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Magnetic forces, magnetic fields, and Faraday's law",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Electromagnetic waves and interference",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VHDL Guide",
-            "homepage": null,
-            "id": 426018585,
-            "language": "VHDL",
-            "license": null,
-            "last_commit": "2022-01-03T22:35:25Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "VHDL-Guide",
-            "stars": 80,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "fpga",
-              "hardware",
-              "hardware-description-language",
-              "hardware-designs",
-              "verilog",
-              "vhdl",
-              "vhdl-coursework",
-              "vhdl-elearning",
-              "vhdl-examples",
-              "vhdl-modules"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:08.146Z"
-        }
-      ],
-      "title": "A guide covering VHDL including the applications, libraries and tools that will make you a better and more efficient with VHDL development."
-    },
-    {
       "description": "VHDLweb is an online VHDL simulator and coding exercise tool. Anyone is welcome to view and work through the problems, but at present your work will not be saved beyond a single browser session.\nClash is a functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell. The Clash compiler transforms these high-level descriptions to low-level synthesizable VHDL, Verilog, or SystemVerilog.\nSynopsys® SpyGlass® is a platform that provides designers with insight about their design, early in the process at RTL. It functions like an interactive guidance system for design engineers and managers, finding the fastest and least expensive path to implementation for complex SoCs.\nSymbiFlow is a fully open source toolchain for the development of FPGAs of multiple vendors. Currently, it targets the Xilinx 7-Series, Lattice iCE40, Lattice ECP5 FPGAs, QuickLogic EOS S3 and is gradually being expanded to provide a comprehensive end-to-end FPGA synthesis flow.\nLabVIEW FPGA is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.\nIcestudio is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.\nVerilator is an open-source SystemVerilog simulator and lint system.\nVerilog to Routing(VTR) is a collaborative project to provide a open-source framework for conducting FPGA architecture and CAD Research & Development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.\nPlatformIO is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.\nPlatformIO for VSCode is a plugin that provides support for the PlatformIO IDE on VSCode.\nTock is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers.\nLLVM is a library that has collection of modular/reusable compiler and toolchain components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).\nTinyGo is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.\nChipyard is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other Berkeley projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.\nRenode is Antmicro's virtual development framework for multinode embedded networks (both wired and wireless) and is intended to enable a scalable workflow for creating effective, tested and secure IoT systems.",
       "items": [
         {
@@ -480,7 +19,7 @@
             "open_issues": 119,
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
-            "stars": 7692,
+            "stars": 7693,
             "topics": [
               "circuit",
               "circuits",
@@ -597,7 +136,7 @@
             "id": 51361989,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T04:39:27Z",
+            "last_commit": "2026-10-03T04:22:46Z",
             "open_issues": 33,
             "owner": "FPGAwars",
             "repo": "apio",
@@ -1502,7 +1041,7 @@
                 "open_issues": 547,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20738,
+                "stars": 20739,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -1666,7 +1205,7 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T04:39:27Z",
+                "last_commit": "2026-10-03T04:22:46Z",
                 "open_issues": 33,
                 "owner": "FPGAwars",
                 "repo": "apio",
@@ -1787,7 +1326,7 @@
             {
               "node_type": "item",
               "title": "C++ Core Guidelines",
-              "description": null,
+              "description": "isocpp/CppCoreGuidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1800,7 +1339,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45352,
+                "stars": 45353,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:08.146Z"
@@ -1815,7 +1354,7 @@
             {
               "node_type": "item",
               "title": "Azure SDK for C++",
-              "description": null,
+              "description": "Azure/azure-sdk-for-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1841,7 +1380,7 @@
             {
               "node_type": "item",
               "title": "Azure SDK for C",
-              "description": null,
+              "description": "Azure/azure-sdk-for-c",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1869,7 +1408,7 @@
             {
               "node_type": "item",
               "title": "C++ Client Libraries for Google Cloud Services",
-              "description": null,
+              "description": "googleapis/google-cloud-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1878,7 +1417,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:27:59Z",
+                "last_commit": "2026-10-03T03:26:23Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1915,10 +1454,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-10-03T01:56:12Z",
-                "open_issues": 1089,
+                "open_issues": 1092,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27512,
+                "stars": 27513,
                 "topics": [
                   "c",
                   "cmake",
@@ -2077,58 +1616,10 @@
         }
       ],
       "title": "C/C++ Development"
-    },
-    {
-      "description": "Electromagnetic Wave. Source: differencebetween\nEMI Spectrum. Source: electrical4u",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "If would you like to contribute to this guide simply make a Pull Request",
-              "description": ".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "VHDL Guide",
-                "homepage": null,
-                "id": 426018585,
-                "language": "VHDL",
-                "license": null,
-                "last_commit": "2022-01-03T22:35:25Z",
-                "open_issues": 0,
-                "owner": "mikeroyal",
-                "repo": "VHDL-Guide",
-                "stars": 80,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "fpga",
-                  "hardware",
-                  "hardware-description-language",
-                  "hardware-designs",
-                  "verilog",
-                  "vhdl",
-                  "vhdl-coursework",
-                  "vhdl-elearning",
-                  "vhdl-examples",
-                  "vhdl-modules"
-                ]
-              },
-              "first_seen": "2026-08-28T07:04:08.146Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Contribute"
-        }
-      ],
-      "title": "Electromagnetic waves and interference"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:19:42.772Z",
+    "last_updated": "2026-10-03T04:32:01.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "VHDL Guide",
