@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-29T04:24:33Z",
-            "open_issues": 141,
+            "open_issues": 146,
             "owner": "logisim-evolution",
             "repo": "logisim-evolution",
-            "stars": 7860,
+            "stars": 7867,
             "topics": [
               "circuit",
               "circuits",
@@ -52,8 +52,8 @@
             "id": 46439446,
             "language": "VHDL",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-30T22:17:11Z",
-            "open_issues": 343,
+            "last_commit": "2026-10-31T09:21:13Z",
+            "open_issues": 338,
             "owner": "ghdl",
             "repo": "ghdl",
             "stars": 2917,
@@ -136,11 +136,11 @@
             "id": 51361989,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T04:52:53Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-31T06:11:17Z",
+            "open_issues": 26,
             "owner": "FPGAwars",
             "repo": "apio",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "apio",
               "cli",
@@ -192,7 +192,7 @@
             "open_issues": 154,
             "owner": "olofk",
             "repo": "fusesoc",
-            "stars": 1478,
+            "stars": 1479,
             "topics": [
               "eda",
               "fpga",
@@ -221,7 +221,7 @@
             "open_issues": 97,
             "owner": "open-sdr",
             "repo": "openwifi",
-            "stars": 4856,
+            "stars": 4857,
             "topics": [
               "802-11",
               "ad9361",
@@ -395,7 +395,7 @@
             "open_issues": 166,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2628,
+            "stars": 2630,
             "topics": [
               "aarch64",
               "arm",
@@ -588,7 +588,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17605,
+                "stars": 17606,
                 "topics": [
                   "cuda",
                   "docker",
@@ -622,10 +622,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 176,
+            "open_issues": 178,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3301,
+            "stars": 3302,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:08.146Z"
@@ -667,7 +667,7 @@
             "open_issues": 88,
             "owner": "intel",
             "repo": "gvt-linux",
-            "stars": 515,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:08.146Z"
@@ -685,10 +685,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-10-31T00:38:09Z",
-            "open_issues": 197,
+            "open_issues": 203,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6444,
+            "stars": 6448,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -714,7 +714,7 @@
             "open_issues": 4,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 859,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:08.146Z"
@@ -771,7 +771,7 @@
                 "open_issues": 40,
                 "owner": "tianocore",
                 "repo": "tianocore.github.io",
-                "stars": 1410,
+                "stars": 1411,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:08.146Z"
@@ -789,10 +789,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T18:47:40Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3468,
+                "stars": 3471,
                 "topics": [
                   "ctap2",
                   "embedded",
@@ -823,11 +823,11 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-30T19:12:37Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-31T04:35:55Z",
+                "open_issues": 129,
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4214,
+                "stars": 4215,
                 "topics": [
                   "c",
                   "firmware",
@@ -895,7 +895,7 @@
                 "open_issues": 259,
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3128,
+                "stars": 3131,
                 "topics": [
                   "android",
                   "firmware",
@@ -952,7 +952,7 @@
                 "open_issues": 25,
                 "owner": "attify",
                 "repo": "firmware-analysis-toolkit",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": [
                   "binary-analysis",
                   "firmware",
@@ -1011,7 +1011,7 @@
                 "open_issues": 25,
                 "owner": "qmk",
                 "repo": "qmk_toolbox",
-                "stars": 3115,
+                "stars": 3116,
                 "topics": [
                   "atmel",
                   "avr",
@@ -1038,7 +1038,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-29T16:52:08Z",
-                "open_issues": 572,
+                "open_issues": 577,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
                 "stars": 20787,
@@ -1205,11 +1205,11 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T04:52:53Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-31T06:11:17Z",
+                "open_issues": 26,
                 "owner": "FPGAwars",
                 "repo": "apio",
-                "stars": 1022,
+                "stars": 1023,
                 "topics": [
                   "apio",
                   "cli",
@@ -1339,7 +1339,7 @@
                 "open_issues": 249,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45395,
+                "stars": 45397,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:08.146Z"
@@ -1363,7 +1363,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-30T23:18:42Z",
+                "last_commit": "2026-10-31T06:06:26Z",
                 "open_issues": 148,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -1417,11 +1417,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T23:48:32Z",
+                "last_commit": "2026-11-01T00:49:09Z",
                 "open_issues": 211,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -1453,11 +1453,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-29T23:53:44Z",
-                "open_issues": 1087,
+                "last_commit": "2026-10-31T06:47:00Z",
+                "open_issues": 1098,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27556,
+                "stars": 27557,
                 "topics": [
                   "c",
                   "cmake",
@@ -1598,7 +1598,7 @@
                 "open_issues": 56,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29725,
+                "stars": 29728,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:42:09.479Z",
+    "last_updated": "2026-11-01T02:32:45.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "VHDL Guide",
